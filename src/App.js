@@ -50,7 +50,7 @@ function App() {
       <header className="App-header" id="text">
         <div id="quote-box">
           <div id="text">
-            <h1>Random Number: {randomNumber}</h1>
+           
             <p>"{quote}"</p>
             <p id="author">- {author}</p>
             <a
